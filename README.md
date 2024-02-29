@@ -11,6 +11,8 @@
 - Legend data (min, max, average price)
 - Error page
 - Adaptive design
+
+### Deployed using Vercel - [Link](https://atom-ntrn-chart.vercel.app/)
   
 ### How to run app localy:
 ```bash
