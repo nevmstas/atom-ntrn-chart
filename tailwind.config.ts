@@ -6,6 +6,10 @@ const config: Config = {
     "./src/components/**/*.{js,ts,jsx,tsx,mdx}",
     "./src/app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
+  purge: [
+    "./src/**/*.{js,ts,jsx,tsx}",
+    // Add more here
+  ],
   theme: {
     extend: {
       backgroundImage: {
